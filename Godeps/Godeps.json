@@ -1,0 +1,20 @@
+{
+	"ImportPath": "github.com/gmaliar/twitch-irc-bot",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/boltdb/bolt",
+			"Comment": "v1.1.0-22-g6e1ca38",
+			"Rev": "6e1ca38c6a73025366cd8705553b404746ee6e63"
+		},
+		{
+			"ImportPath": "github.com/nickvanw/ircx",
+			"Rev": "19e63995ad7a6178ee9c03423413a20431e0d230"
+		},
+		{
+			"ImportPath": "github.com/sorcix/irc",
+			"Comment": "v1.1.2-2-g2cb0b5c",
+			"Rev": "2cb0b5cfbe2935a1c14ef3e8df7ed3b93c2501e7"
+		}
+	]
+}
