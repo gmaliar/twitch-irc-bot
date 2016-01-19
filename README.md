@@ -19,7 +19,7 @@ $ bin/twitch-irc-bot --name=pantsu2 --chan=#p4wnyhof --user=pantsu2 --password=o
 # when exiting it reports the statistics
 
 ^C
-
+# users word counts
 key=3neffen, value=4
 key=aequilibriumde, value=5
 key=akysha23, value=15
@@ -150,6 +150,8 @@ key=xfelcor, value=4
 key=yaasinrn, value=6
 key=zapakapa, value=1
 key=zdenekcz, value=5
+
+# per word count
 key=ACTION, value=1
 key=!, value=4
 key=!!!, value=1
